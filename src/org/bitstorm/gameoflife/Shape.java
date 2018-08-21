@@ -6,6 +6,8 @@
 package org.bitstorm.gameoflife;
 
 import java.awt.Dimension;
+
+
 import java.util.Enumeration;
 
 /**
